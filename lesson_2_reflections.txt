@@ -18,3 +18,6 @@ A) A hidden directory appears. To track diffs.
 
 8) How is the staging area different from the working directory and the repository? What value do you think it offers?
 A) It has only changed files to commit to repository. Less data-traffic, better overview.
+
+9) How can you use the staging area to make sure you have one commit per logical change?
+A) Dono
