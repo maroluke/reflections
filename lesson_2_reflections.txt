@@ -12,3 +12,9 @@ A) Copy commit-id's with git log and compare them with git diff.
 
 6) How might using version control make you more confident to make changes that could break something?
 A) Good and logical comments and commits
+
+7) What happens when you initialize a repository? Why do you need to do it?
+A) A hidden directory appears. To track diffs.
+
+8) How is the staging area different from the working directory and the repository? What value do you think it offers?
+A) It has only changed files to commit to repository. Less data-traffic, better overview.
