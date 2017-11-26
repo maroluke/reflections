@@ -24,3 +24,6 @@ A) Dono
 
 10) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A) For experimental safaris or different site language.
+
+11) How do the diagrams help you visualize the branch structure?
+A) Parent commits branches/commits
